@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Dados do Open WebUI (contas de usuário e chats)
+data/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+
+# Chave secreta do Open WebUI
+.webui_secret_key
